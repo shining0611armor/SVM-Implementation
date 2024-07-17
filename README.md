@@ -7,7 +7,7 @@ Welcome to our repository where we delve into the implementation of Support Vect
 In this repository, you will find two main types of SVM implementations:
 
 1. **SVM with scikit-learn**: Utilize the powerful scikit-learn library to implement standard SVM models quickly and efficiently.
-2. **SVM from Scratch**: Challenge yourself by building SVM models from the ground up, gaining a deeper understanding of the underlying mechanics.
+2. **SVM from Scratch**: Challenge yourself by building SVM models from the ground up, gaining a deeper understanding of the underlying mechanics. You will also become familiar with the CVXOPT library.
 
 ## Features
 
