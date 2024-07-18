@@ -1,6 +1,7 @@
 # Support Vector Machines (SVM) Implementations
 
 Welcome to our repository where we delve into the implementation of Support Vector Machines (SVM) for educational purposes in our Machine Learning course. This repository is designed to facilitate a deep understanding of SVM through practical examples and custom implementations.
+![image](https://github.com/user-attachments/assets/31b4a196-7150-4b79-a442-4ea88bab6bfe)
 
 ## Overview
 
