@@ -37,12 +37,8 @@ To get started with the code in this repository, follow these steps:
     cd svm-implementations
     ```
 
-2. **Install the required dependencies**:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
-3. **Explore the Jupyter notebooks**:
+2. **Explore the Jupyter notebooks**:
     ```sh
     jupyter notebook
     ```
