@@ -22,15 +22,31 @@ We cover a range of scenarios and advanced topics in SVM, including:
 
 The repository is organized as follows:
 
-- `notebooks/`: Jupyter notebooks demonstrating SVM implementations using scikit-learn and from scratch.
-  - `svm_sklearn.ipynb`: SVM implementation using scikit-learn.
-  - `svm_scratch.ipynb`: SVM implementation from scratch using CVXOPT.
-- `scripts/`: Python scripts for SVM implementations.
-  - `svm_sklearn.py`: SVM implementation using scikit-learn.
-  - `svm_scratch.py`: SVM implementation from scratch using CVXOPT.
-- `data/`: Example datasets used in the implementations.
-- `images/`: Visualizations and images used in the README and notebooks.
+- `README.md`: This file providing an overview of the repository.
+- `SVM_fully from scratch (Helper).pdf`: A detailed PDF guide to understanding and implementing SVM from scratch.
+- `SVM_implementation.ipynb`: Jupyter notebook demonstrating the implementation of SVM using scikit-learn and from scratch.
+- `evaluate.py`: A Python script to evaluate the performance of the SVM models.
 
+## 🚀 Getting Started
+
+To get started with the code in this repository, follow these steps:
+
+1. **Clone the repository**:
+    ```sh
+    git clone https://github.com/shining0611armor/svm-implementations.git
+    cd svm-implementations
+    ```
+
+2. **Install the required dependencies**:
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+3. **Explore the Jupyter notebooks**:
+    ```sh
+    jupyter notebook
+    ```
+    Open and run the `SVM_implementation.ipynb` notebook to see the SVM implementations in action.
 
 ## 📈 Usage
 
